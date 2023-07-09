@@ -1,11 +1,11 @@
 ### :raising_hand: Hi there
 
-My name is **Romain**, I am 25 years old, and I am currently working in Toulouse (France) as a **Systems Engineer** at :airplane:[Airbus](https://www.airbus.com/), on behalf of [Devoteam](https://www.devoteam.com/).
+My name is **Romain**, I am 25 years old, and I am currently working in Toulouse (France) as a **Systems Engineer** at [Airbus](https://www.airbus.com/), on behalf of [Devoteam](https://www.devoteam.com/).
 
 ### :man: Who am I
 
 * :penguin: I am primarily working as a Linux Systems Engineer, mostly with [Red Hat](https://www.redhat.com/) systems.
-* :gear: I use a lot of [Ansible](https://www.ansible.com/) for automation, bash and Python for scripting, and I also have some knowledge in Windows Servers and PowerShell.
+* :gear: I use a lot of [Ansible](https://www.ansible.com/) for automation, bash and [Python](https://www.python.org/) for scripting, and I also have some knowledge in Windows Servers and PowerShell.
 * :mailbox: You can reach me on [LinkedIn](https://www.linkedin.com/in/plck/).
 
 <!--
