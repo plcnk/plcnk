@@ -1,6 +1,6 @@
 ### :raising_hand: Hi there
 
-My name is **Romain**, I am 25 years old, and I am currently working in Toulouse (France) as a **Systems Engineer** at [Airbus](https://www.airbus.com/), on behalf of [Devoteam](https://www.devoteam.com/).
+My name is **Romain**, I am 26 years old, and I am currently working in Toulouse (France) as a **Systems Engineer** at [Airbus](https://www.airbus.com/), on behalf of [Devoteam](https://www.devoteam.com/).
 
 ### :man: Who am I
 
