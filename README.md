@@ -4,7 +4,9 @@ My name is **Romain**, I am 26 years old, and I am currently working in Toulouse
 
 ### :man: Who am I
 
-* :penguin: I am primarily working as a Linux Systems Engineer, mostly with [Red Hat](https://www.redhat.com/) systems.
+* :construction_worker: I am a Linux Systems Engineer primarily working on [Red Hat](https://www.redhat.com/) and [Debian](https://www.debian.org/index.fr.html) systems.
+* :wheel_of_dharma: I am a Certified [Kubernetes](https://kubernetes.io/) Administrator and I work with a lot of related stuff such as [Helm](https://helm.sh/), [Rancher](https://www.rancher.com/) etc...
+* :house: I have a fully GitOps [k3s](https://k3s.io/) cluster as my homelab, all managed by [Flux](https://fluxcd.io/) and [Argo CD](https://argoproj.github.io/cd/). All my configs are available [here](https://github.com/plcnk/kube-configs).
 * :gear: I use a lot of [Ansible](https://www.ansible.com/) for automation, bash and [Python](https://www.python.org/) for scripting, and I also have some knowledge in Windows Servers and PowerShell.
 * :mailbox: You can reach me on [LinkedIn](https://www.linkedin.com/in/plck/).
 
